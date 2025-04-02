@@ -3,8 +3,8 @@
  
     --color-secundario:#B68F79;
     --color-terciario:#91634F;
-    --font-principal:'Schoolbell', cursive;
-    --font-secundaria:'Nunito Sans', sans-serif;
+    --font-principal:"Merriweather", serif;
+    --font-secundaria:"Merriweather", serif;
 }
 
 body {
