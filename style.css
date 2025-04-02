@@ -1,7 +1,8 @@
 :root {
     --color-principal:#fefdfa;
-    --color-secundario:#d2e0e9;
-    --color-terciario:#aec3d5;
+ 
+    --color-secundario:#B68F79;
+    --color-terciario:#91634F;
     --font-principal:'Schoolbell', cursive;
     --font-secundaria:'Nunito Sans', sans-serif;
 }
